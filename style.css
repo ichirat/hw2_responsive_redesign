@@ -1,0 +1,28 @@
+body{
+    font-family: "Dekko", cursive;
+    background-color: #36848F;
+
+}
+
+h1,
+h2,
+h3,
+h4 {
+    font-family: "Indie Flower", cursive;
+}
+
+h4 {
+    padding-top: 2rem;
+}
+
+.blankets {
+    background: url(images/coverimage.png) center fixed;
+    height: calc(100vh - 56px);
+    background-size: cover;
+}
+
+.waverly {
+    background: url(images/waverly.jpg) center;
+    height: calc(90vh);
+    background-size: cover;
+}
